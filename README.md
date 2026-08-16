@@ -6,6 +6,17 @@ An end-to-end business analytics project focused on analyzing JioMart sales perf
 
 The project analyzes 5,000+ transactions across products, customers, channels, regions and store formats to identify sales and profitability trends and investigate a significant decline in November sales.
 
+## 📊 Dashboard Preview
+
+### Page 1 — Overview
+![JioMart Dashboard](Screenshots/Page_1_Overview.png)
+
+### Page 2 - Profitabilitu Analysis
+![JioMart Dashboard](Screenshots/Page_2_Profitability_Analysis.png)
+
+### November Sales Decline Analysis
+![November Sales Decline](Screenshots/November_Sales_Decline.png)
+
 ## 🎯 Objectives
 
 - Analyze overall sales and profitability performance
